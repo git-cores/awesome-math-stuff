@@ -8,6 +8,7 @@ A list of awesome math/science-related courses
 
 ### Algebra
 
+ - [MATH 108 - Introduction to Abstract Mathematics (Winter 2021) - Dr. Eric Babson - UC Davis](https://www.math.ucdavis.edu/~babson/MAT108/index_108-W21.html)
 
 ### Calculus
 
