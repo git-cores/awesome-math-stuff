@@ -2,8 +2,12 @@
 A list of awesome math/science-related courses
 
 ## Categories
+ - [Algebra](#algebra)
  - [Calculus](#calculus)
  - [Real Analysis](#real-analysis)
+
+### Algebra
+
 
 ### Calculus
 
