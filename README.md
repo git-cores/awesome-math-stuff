@@ -19,4 +19,5 @@ A list of awesome math/science-related courses
 
  - [MATH 104 - Introduction to Analysis (Fall 2021) - McFeely Jackson Goodman - UC Berkeley](https://math.berkeley.edu/~mjgoodman/teaching/104F21/)
  - [MATH 104 - Introduction to Analysis (Summer 2020) - Max Wimberley - UC Berkeley](https://www.youtube.com/@RealAnalysisSummer-MaxWimberle/playlists)
+ - [18.100A - Real Analysis (Fall 2020) - Dr. Casey Rodriguez - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
 
