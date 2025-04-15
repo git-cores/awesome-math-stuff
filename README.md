@@ -12,8 +12,8 @@ A list of awesome math/science-related courses
 
 ### Calculus
 
- - [MATH 10524 - Calculus I (Fall 2022) - Dr. Ken Richardson - Texas Christian University](https://faculty.tcu.edu/richardson/2022F_calc1/)
- - [MATH 10524 - Calculus I (Fall 2023) - Dr. Ken Richardson - Texas Christian University](https://faculty.tcu.edu/richardson/2023F_calc1/)
+ - [MATH 10524 - Calculus I (Fall 2022) - Dr. Ken Richardson - TCU](https://faculty.tcu.edu/richardson/2022F_calc1/)
+ - [MATH 10524 - Calculus I (Fall 2023) - Dr. Ken Richardson - TCU](https://faculty.tcu.edu/richardson/2023F_calc1/)
  - [MAT 137 - Calculus with proofs (Fall 2020) - Alfonso Gracia-Saz - University of Toronto](https://www.math.utoronto.ca/alfonso/137/137.html?videos)
 
 ### Real Analysis
