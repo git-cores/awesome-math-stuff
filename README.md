@@ -20,6 +20,8 @@ A list of awesome math/science-related courses
 
 ### Numerical Analysis
 
+ - [18.330 - Introduction to Numerical Analysis (Spring 2020) - MIT](https://github.com/PKUFlyingPig/MIT18.330/tree/spring20)
+
 
 ### Real Analysis
 
