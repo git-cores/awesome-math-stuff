@@ -15,6 +15,7 @@ A list of awesome math/science-related courses
 
  - [MATH 10524 - Calculus I (Fall 2022) - Dr. Ken Richardson - TCU](https://faculty.tcu.edu/richardson/2022F_calc1/)
  - [MATH 10524 - Calculus I (Fall 2023) - Dr. Ken Richardson - TCU](https://faculty.tcu.edu/richardson/2023F_calc1/)
+ - [MATH 139 - Fourier Analysis - Winston Ou](https://drive.google.com/file/d/1f1pp1QkF0BqqLELBrKyk69X0ofd3SjdR/view) ([YouTube](https://www.youtube.com/playlist?list=PLun8-Z_lTkC5KUsw0dO2SBkdwdEVKqcP5))
  - [MAT 137 - Calculus with proofs (Fall 2020) - Alfonso Gracia-Saz - U of T](https://www.math.utoronto.ca/alfonso/137/137.html?videos)
 
 ### Real Analysis
