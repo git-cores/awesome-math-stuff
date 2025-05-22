@@ -15,6 +15,7 @@ A list of awesome math/science-related courses
 
  - [MATH 10524 - Calculus I (Fall 2022) - Dr. Ken Richardson - TCU](https://faculty.tcu.edu/richardson/2022F_calc1/)
  - [MATH 10524 - Calculus I (Fall 2023) - Dr. Ken Richardson - TCU](https://faculty.tcu.edu/richardson/2023F_calc1/)
+ - [MATH 151 - Finite Mathematics (Fall 2023) - Jonathan Noel - University of Victoria](https://www.youtube.com/playlist?list=PLtxJg53s2o0Mk87lsAQyx9ObyJN6O6jfH)
  - [MAT 137 - Calculus with proofs (Fall 2020) - Alfonso Gracia-Saz - U of T](https://www.math.utoronto.ca/alfonso/137/137.html?videos)
 
 ### Real Analysis
