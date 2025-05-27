@@ -20,7 +20,7 @@ A list of awesome math/science-related courses
 
 ### Numerical Analysis
 
-
+ - [MATH 128A - Numerical Analysis (Spring 2014) - P.-O. Persson - UC Berkeley](http://persson.berkeley.edu/mathW128A/lecture_videos.html)
 
 ### Real Analysis
 
