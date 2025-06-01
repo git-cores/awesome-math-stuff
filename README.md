@@ -10,7 +10,7 @@ A list of awesome math/science-related courses
 ### Algebra
 
  - [MATH 108 - Introduction to Abstract Mathematics (Winter 2021) - Dr. Eric Babson - UC Davis](https://www.math.ucdavis.edu/~babson/MAT108/index_108-W21.html)
- - [CS 198-087 - Introduction to Mathematical Thinking (Spring 2019) - Suraj Rampure - UC Berkeley](https://imt-decal.org/)
+ - [CS 198-087 - Introduction to Mathematical Thinking (Spring 2019) - Suraj Rampure - UCB](https://imt-decal.org/)
 
 ### Calculus
 
@@ -23,12 +23,12 @@ A list of awesome math/science-related courses
 ### Numerical Analysis
 
  - [18.330 - Introduction to Numerical Analysis (Spring 2020) - MIT](https://github.com/PKUFlyingPig/MIT18.330/tree/spring20)
- - [MATH 128A - Numerical Analysis (Spring 2014) - P.-O. Persson - UC Berkeley](http://persson.berkeley.edu/mathW128A/lecture_videos.html)
+ - [MATH 128A - Numerical Analysis (Spring 2014) - P.-O. Persson - UCB](http://persson.berkeley.edu/mathW128A/lecture_videos.html)
 
 ### Real Analysis
 
- - [MATH 104 - Introduction to Analysis (Fall 2021) - McFeely Jackson Goodman - UC Berkeley](https://math.berkeley.edu/~mjgoodman/teaching/104F21/)
- - [MATH 104 - Introduction to Analysis (Summer 2020) - Max Wimberley - UC Berkeley](https://www.youtube.com/@RealAnalysisSummer-MaxWimberle/playlists)
+ - [MATH 104 - Introduction to Analysis (Fall 2021) - McFeely Jackson Goodman - UCB](https://math.berkeley.edu/~mjgoodman/teaching/104F21/)
+ - [MATH 104 - Introduction to Analysis (Summer 2020) - Max Wimberley - UCB](https://www.youtube.com/@RealAnalysisSummer-MaxWimberle/playlists)
  - [18.100A - Real Analysis (Fall 2020) - Dr. Casey Rodriguez - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
  - [18.103 - Fourier Analysis (Fall 2020) - Andrew Lawrie - MIT](https://www.youtube.com/playlist?list=PLIygTcviGPKBMyjct4h5QLNBWxIeglSMA)
 
