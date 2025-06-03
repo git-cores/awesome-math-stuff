@@ -19,6 +19,7 @@ A list of awesome math/science-related courses
  - [MATH 139 - Fourier Analysis - Winston Ou](https://drive.google.com/file/d/1f1pp1QkF0BqqLELBrKyk69X0ofd3SjdR/view) ([YouTube](https://www.youtube.com/playlist?list=PLun8-Z_lTkC5KUsw0dO2SBkdwdEVKqcP5))
  - [MATH 151 - Finite Mathematics (Fall 2023) - Jonathan Noel - UVic](https://www.youtube.com/playlist?list=PLtxJg53s2o0Mk87lsAQyx9ObyJN6O6jfH)
  - [MATH 137 - Calculus with proofs (Fall 2020) - Alfonso Gracia-Saz - U of T](https://www.math.utoronto.ca/alfonso/137/137.html?videos)
+ - [MATH 1A - Calculus (Fall 2019) - Alexander Paulin - UCB](https://math.berkeley.edu/~apaulin/1A_001%20(Fall%202019).html)
 
 ### Numerical Analysis
 
