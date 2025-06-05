@@ -21,6 +21,7 @@ A list of awesome math/science-related courses
  - [MATH 137 - Calculus with proofs (Fall 2020) - Alfonso Gracia-Saz - U of T](https://www.math.utoronto.ca/alfonso/137/137.html?videos)
  - [MATH 1A - Calculus (Fall 2019) - Alexander Paulin - UCB](https://math.berkeley.edu/~apaulin/1A_001%20(Fall%202019).html)
  - [MATH 16A - Analytic Geometry and Calculus (Fall 2013) - Thomas Scanlon - UCB](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk?sort=title)
+ - [MATH 16B - Analytic Geometry and Calculus (Spring 2023) - Alexander Paulin - UCB](https://math.berkeley.edu/~apaulin/16B%20(Spring%202023).html)
 
 ### Numerical Analysis
 
