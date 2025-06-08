@@ -12,6 +12,7 @@ A list of awesome math/science-related courses
  - [MATH 108 - Introduction to Abstract Mathematics (Winter 2021) - Dr. Eric Babson - UC Davis](https://www.math.ucdavis.edu/~babson/MAT108/index_108-W21.html)
  - [CS 198-087 - Introduction to Mathematical Thinking (Spring 2019) - Suraj Rampure - UCB](https://imt-decal.org/)
  - [MATH 54 - Linear Algebra & Differential Equations (Spring 2018) - Alexander Paulin - UCB](https://math.berkeley.edu/~apaulin/54_001(Spring2018).html)
+ - [MATH 54 - Linear Algebra & Differential Equations (Spring 2020) - Luvreet Sangha - UCB](https://www.youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob)
 
 ### Calculus
 
