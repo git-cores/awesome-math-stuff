@@ -14,6 +14,7 @@ A list of awesome math/science-related courses
  - [MATH 54 - Linear Algebra & Differential Equations (Spring 2018) - Alexander Paulin - UCB](https://math.berkeley.edu/~apaulin/54_001(Spring2018).html)
  - [MATH 54 - Linear Algebra & Differential Equations (Spring 2020) - Luvreet Sangha - UCB](https://www.youtube.com/playlist?list=PLShth7hrtLHO2U1XkrI6ZgMyuPHDxRcob)
  - [MATH 54 - Linear Algebra & Differential Equations (Spring 2021) - Peter Koroteev - UCB](https://math.berkeley.edu/~pkoroteev/math54.html)
+ - [MATH 54 - Linear Algebra & Differential Equations (Spring 2022) - Alexander Paulin - UCB](https://math.berkeley.edu/~apaulin/54%20(Spring%202022).html)
 
 ### Calculus
 
